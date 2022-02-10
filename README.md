@@ -1,1 +1,42 @@
 # Tarea7
+
+## OBJETIVOS
+
+**General**
+
+
+
+**Específicos**
+
+
+
+## MARCO TEÓRICO (RESUMEN)
+
+**CAPITULO 13**
+
+
+
+**CAPITULO 14**
+
+
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+**CAPITULO 13**
+
+
+
+**CAPITULO 14**
+
+
+
+## VIDEO
+
+
+
+## CONCLUSIONES
+
+
+
+## BIBLIOGRAFÍA
+
