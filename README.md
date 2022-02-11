@@ -10,7 +10,9 @@
 **Específicos**
 
 -Interpretar el funcionamiento basico de los inductores
+
 -Analizar las caracteristicas de los inductores en los circuitos
+
 -Describir como se construye un transformador y su funcionalidad 
 
 ## MARCO TEÓRICO (RESUMEN)
