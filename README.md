@@ -23,7 +23,7 @@
 
 **CAPITULO 14**
 
-
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/Transformadores.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
