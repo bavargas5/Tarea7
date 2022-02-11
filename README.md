@@ -14,7 +14,7 @@
 
 **CAPITULO 13**
 
-
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/Diagrama%20en%20blanco%20-%20P%C3%A1gina%201%20(1).png)
 
 **CAPITULO 14**
 
