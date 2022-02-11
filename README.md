@@ -4,11 +4,14 @@
 
 **General**
 
+-Analizar el funcionamiento como las características de los inductores y transformadores ampliando la capacidad de analisis en ciurcuitos reales 
 
 
 **Específicos**
 
-
+-Interpretar el funcionamiento basico de los inductores
+-Analizar las caracteristicas de los inductores en los circuitos
+-Describir como se construye un transformador y su funcionalidad 
 
 ## MARCO TEÓRICO (RESUMEN)
 
@@ -164,6 +167,10 @@
 ## CONCLUSIONES
 
 
+-Es importante aclarar que el indictor es básicamente una bobina de alambre que utiliza el principio de inducción electromagnética además se dieron a conocer como es la construcción básica y las caracteristicas de los inductores, asi como sus efectos cuando se conectan en serie o en paralelo en los circuitos 
+
+Mientras que un transformados simple esta compuesto de dis bobinas acopladas de manera electromagnétoca por que tienen una inductancia mutua,además estas componentes se utilizan en muchas aplicaciones como distribución de potencia eléctrica, fuentes de potencia entre otras
 
 ## BIBLIOGRAFÍA
 
+-Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
