@@ -74,9 +74,63 @@
 
 ![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/13.PNG)
 
+**19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
 
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_19.JPG)
 
+**21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor: **
 
+(a) 10 µs  (b) 20 µs  (c) 30 µs  (d) 40 µs  (e) 50 µs
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_21.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_21_1.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_21_2.JPG)
+
+**23. Repita el problema 21 para los siguientes instantes:**
+
+(a) 2 µs  (b) 5 µs  (c) 15 µs
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_23.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_23.JPG)
+
+**25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_25.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_25.JPG)
+
+**27. Determine la constante de tiempo para el circuito de la figura 13-50.**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_27.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_27_3.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_27_4.JPG)
+
+**29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_29.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_29.JPG)
+
+**31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_31.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_31.JPG)
+
+**33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_31.JPG)
+
+**35. Determine IL2 en la figura 13-52.**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_Q_35.JPG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMGAR/P_R_35.JPG)
 
 **CAPITULO 14**
 
