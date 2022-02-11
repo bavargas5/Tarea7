@@ -24,6 +24,53 @@
 
 **CAPITULO 13**
 
+**1.Convierta los siguientes valores en milihenrios:**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/1.PNG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/2.PNG)
+
+**3. ¿Cuál es el voltaje en una bobina cuando di/dt  10 mA/ms y L  5 mH?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/3.PNG)
+
+**5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/4.PNG)
+
+**7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/5.PNG)
+
+**9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/6.PNG)
+
+**11. Se conectan cinco inductores en serie. El valor más bajo es de 5 mH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/7.PNG)
+
+**13. Determine la inductancia total en la figura 13-44.**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/8.PNG)
+
+
+**15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,50 mH, 25 mH, y 15 mH**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/9.PNG)
+
+**17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.**
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/10.PNG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/11.PNG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/12.PNG)
+
+![](https://github.com/bavargas5/Tarea7/blob/main/IMG%20BN/13.PNG)
+
+
+
 
 
 **CAPITULO 14**
